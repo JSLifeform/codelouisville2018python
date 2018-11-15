@@ -1,0 +1,13 @@
+Quickstart Guide:
+
+1.) Determine your current working directory in Jupyter Notebook
+	
+	1a.) You know your current working directory: Skip to step 2
+
+	1b.) You do not know your current working directory: Download and run workingdirectory.ipynb in Jupyter Notebook.
+	     This program will give you the directory you need to place the project files into
+
+2.) Place the project files cardtable.db and 2018PythonProject.ipynb (unzipped) into the current working directory
+
+3.) Open and run 2018PythonProject.ipynb: This will run the script and give a box plot of the various lengths of flavor
+    text on each card by color. It will also modify database cardtable.db as described in README.md
